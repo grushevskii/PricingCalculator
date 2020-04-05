@@ -1,0 +1,22 @@
+<environment>
+    <parameter>
+        <key>ProjectName</key>
+        <value>PricingCalculator</value>
+    </parameter>
+    <parameter>
+        <key>Browser</key>
+        <value>Google Chrome 79.0</value>
+    </parameter>
+    <parameter>
+        <key>OS.version</key>
+        <value>Windows 10 Pro</value>
+    </parameter>
+    <parameter>
+        <key>JDK.version</key>
+        <value>JDK 1.8.0_231</value>
+    </parameter>
+    <parameter>
+        <key>MAVEN.version</key>
+        <value>Apache Maven 3.7.0</value>
+    </parameter>
+</environment>

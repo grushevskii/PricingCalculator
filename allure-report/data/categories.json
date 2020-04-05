@@ -1,0 +1,36 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Passed test",
+    "children" : [ {
+      "children" : [ {
+        "name" : "successAddToEstimateCalculatorAndVerificationData",
+        "uid" : "49ba1f652eca0e8e",
+        "parentUid" : "5644821434bb5bc31e9f7dfe5983ddf1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586113611840,
+          "stop" : 1586113641875,
+          "duration" : 30035
+        },
+        "flaky" : false,
+        "parameters" : [ "Google Cloud Platform Pricing Calculator", "4", "USD 1,082.77", "VM Class", "Regular", "Instance type", "n1-standard-8", "Local SSD", "2x375 GB", "Frankfurt", "1 Year" ]
+      }, {
+        "name" : "successEmailEstimateCalculatorAndVerificationData",
+        "uid" : "50caa74d9c8d0b6f",
+        "parentUid" : "5644821434bb5bc31e9f7dfe5983ddf1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586113642875,
+          "stop" : 1586113656106,
+          "duration" : 13231
+        },
+        "flaky" : false,
+        "parameters" : [ "USD 1,082.77" ]
+      } ],
+      "uid" : "5644821434bb5bc31e9f7dfe5983ddf1"
+    } ],
+    "uid" : "81b1a73de11cbf9edd37b9ae15430a89"
+  } ]
+}

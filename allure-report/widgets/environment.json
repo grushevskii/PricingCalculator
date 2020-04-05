@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "PricingCalculator" ],
+  "name" : "ProjectName"
+}, {
+  "values" : [ "Windows 10 Pro" ],
+  "name" : "OS.version"
+}, {
+  "values" : [ "Apache Maven 3.7.0" ],
+  "name" : "MAVEN.version"
+}, {
+  "values" : [ "JDK 1.8.0_231" ],
+  "name" : "JDK.version"
+}, {
+  "values" : [ "Google Chrome 79.0" ],
+  "name" : "Browser"
+} ]

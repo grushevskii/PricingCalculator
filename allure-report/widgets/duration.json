@@ -1,0 +1,21 @@
+[ {
+  "uid" : "49ba1f652eca0e8e",
+  "name" : "successAddToEstimateCalculatorAndVerificationData",
+  "time" : {
+    "start" : 1586113611840,
+    "stop" : 1586113641875,
+    "duration" : 30035
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "50caa74d9c8d0b6f",
+  "name" : "successEmailEstimateCalculatorAndVerificationData",
+  "time" : {
+    "start" : 1586113642875,
+    "stop" : 1586113656106,
+    "duration" : 13231
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

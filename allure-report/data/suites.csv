@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","PricingCalculatorTest.successAddToEstimateCalculatorAndVerificationData","30035","This test add to estimate and verification data"
+"passed","PricingCalculatorTest.successEmailEstimateCalculatorAndVerificationData","13231","This test email to estimate and verification data"

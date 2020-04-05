@@ -1,0 +1,229 @@
+{
+  "uid" : "50caa74d9c8d0b6f",
+  "name" : "successEmailEstimateCalculatorAndVerificationData",
+  "fullName" : "PricingCalculatorTest.successEmailEstimateCalculatorAndVerificationData",
+  "historyId" : "9ed21ad9a4b8e0c66b2778d283acfa2",
+  "time" : {
+    "start" : 1586113642875,
+    "stop" : 1586113656106,
+    "duration" : 13231
+  },
+  "description" : "This test email to estimate and verification data",
+  "descriptionHtml" : "<p>This test email to estimate and verification data</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1586113579147,
+      "stop" : 1586113611118,
+      "duration" : 31971
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "This test email to estimate and verification data",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Email Estimate",
+      "time" : {
+        "start" : 1586113642891,
+        "stop" : 1586113643119,
+        "duration" : 228
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "openPage",
+      "time" : {
+        "start" : 1586113643120,
+        "stop" : 1586113643445,
+        "duration" : 325
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Enter the value hamfdjxcwswfcxhvcy@ttirv.org in the field Email",
+      "time" : {
+        "start" : 1586113649197,
+        "stop" : 1586113649923,
+        "duration" : 726
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "hamfdjxcwswfcxhvcy@ttirv.org"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Send Email",
+      "time" : {
+        "start" : 1586113649924,
+        "stop" : 1586113650230,
+        "duration" : 306
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Message",
+      "time" : {
+        "start" : 1586113650246,
+        "stop" : 1586113655931,
+        "duration" : 5685
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Verification total cost components",
+      "time" : {
+        "start" : 1586113655932,
+        "stop" : 1586113656106,
+        "duration" : 174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : "Total Estimated Monthly Cost"
+      }, {
+        "name" : "component",
+        "value" : "USD 1,082.77"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PricingCalculatorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PricingCalculatorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "successEmailEstimateCalculatorAndVerificationData"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Pricing Calculator Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "PricingCalculatorTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AKKK5BC"
+  }, {
+    "name" : "thread",
+    "value" : "3672@DESKTOP-AKKK5BC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Pricing Calculator Tests"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "USD 1,082.77"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "45d48dfbf7417d1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586113451974,
+        "stop" : 1586113465601,
+        "duration" : 13627
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Passed test",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7e9e793b2bad0650",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586113451974,
+          "stop" : 1586113465601,
+          "duration" : 13627
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "50caa74d9c8d0b6f.json",
+  "parameterValues" : [ "USD 1,082.77" ]
+}
